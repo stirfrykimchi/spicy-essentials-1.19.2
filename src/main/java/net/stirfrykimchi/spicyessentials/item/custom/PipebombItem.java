@@ -30,6 +30,7 @@ public class PipebombItem extends Item {
     }
 
 
+    // On right-click, throw a "heavy" & "weak" explosive
     @Override
     public TypedActionResult<ItemStack> use(World world, PlayerEntity user, Hand hand) {
         // Creates a reference for making entities and decreasing stack size
