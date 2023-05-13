@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:flint"
+    },
+    "X": {
+      "item": "minecraft:gunpowder"
+    },
+    "Y": {
+      "item": "minecraft:sand"
+    }
+  },
+  "pattern": [
+    "#",
+    "X",
+    "Y"
+  ],
+  "result": {
+    "count": 1,
+    "item": "spicyessentials:pipebomb"
+  }
+}
